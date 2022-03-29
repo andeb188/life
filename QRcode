@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Draft Two of Evolution of QR Code</title>
+  </head>
+  <body>
+    <div class="Communication:Interactions to Pop Culture">
+      <dl>
+        <dt>Photographic Camera</dt>
+        <dd>1816: The first working iteration of an image capturing device was invented by Joseph Nicéphore Niépce. The properly developed photo, of a house, didn’t come until 10 years later, but remains intact to this day.</dd>
+        <dt>Braille</dt>
+        <dd>1824:First communicative use of accessibility and geometry created by Louis Braille. These formations were known as matrices.</dd>
+        <dt>Development of Morse Code</dt>
+        <dd>1830:First communication method, created by Samuel Morse,utilizes signal patterns to encode text as sequences of different signal durations using what is known as dots and dashes. </dd>
+        <dt>MetaData Emergence</dt>
+        <dd>1967: Two MIT students, Stuart McIntosh and David Griffel, mention the need for advancement of Meta-Data Language to assist researchers in finding relevant information and resources.</dd>
+        <dt>QR Software Introduced </dt>
+        <dd>1994: The first QR was created by DENSO WAVE, after supermarkets reached out because they wanted to find a way to make the bar code more versatile, and hold more information. </dd>
+      </dl>
+
+      <div class="Mathematics and Algorithmic-Based Systems">
+        <dl>
+          <dt>The Abacus</dt>
+          <dd>2700 BC: Also known as a counting frame, it was the first account of a calculation tool used for basic arithmetic and keeping track of numerical systems.</dd>
+          <dt>Euclid</dt>
+          <dd>310 BC: First Greek Philosopher, to mention Geometric Systems and form simple shapes, the father of geometry.</dd>
+          <dt>Pascal's Calculator</dt>
+          <dd>1642: A calculation system that allowed more complex systems like multiplication, division, double-digits, in a repeated manner.</dd>
+          <dt>Printed Circuit Boards</dt>
+          <dd>1930: First created to mechanically support and electronically connect electronic components of a radio system by Charles Ducas. </dd>
+        </dl>
+
+        <div class="Systems and their Uses: From Government, to Health, to Finance">
+          <dl> //clear how it relates to QR codes
+            <dt>The Great Library of Alexandria</dt>
+            <dd>280 BC: The Great Library of Alexandria utilized a system that involved a dangling tag on each individual scroll. This included information like the title, subject, and author. The first example of meta-language.</dd>
+            <dt>First POS System</dt>
+            <dd>1879: The cash register was invented by James Ritty, a saloon-owner. He felt the need to keep an inventory and have better bookkeeping without humanic-error. </dd>
+            <dt>Punch Card</dt>
+            <dd>1890: A cast-iron machine that has a metal base that holds a sheet of plastic that marks corresponding with a category, made to use for the 1890 census.</dd>
+            <dt>Commercialization of Bar Code</dt>
+            <dd>1966: The National Association of Food Chains utilizes the technology of the barcode to decrease checkout times.</dd>
+            <dt>FingerWorks</dt>
+            <dd>1998: Created by Wayne Westerman who was experiencing symptoms of RSI that interfered with his studies, so he went on to develop touch screen technologies that would eventually be bought out by Apple. </dd>
+            <dt>NISO gets serious about MetaData</dt>
+            <dd>2001:The National Information Standards Organization releases a manual regarding the three major levels to Metadata; descriptive, administrative, and structure.</dd>
+            <dt>Alipay Designs a QR Code to Pay</dt>
+            <dd>2011: Alipay saw the perfect opportunity for a need for easier methods of payment and repayment, so it emerged with a system of utilizing QR codes for finances that took off in China. </dd>
+            <dt>Covid-19 brings the Emergence of Touch-Free</dt>
+            <dd>Late 2020: When restaurants began to reopen for take out and outdoor dining, touchpoints like menus were redesigned to a virtual system utilizing QR codes for touch-free service</dd>
+          </dl>
+
+          <div class="The Individual: Their Usage and Nautral Humanistic Influences ">
+            <dl> //clear how it relates to QR codes
+              <dt>Hippocrates</dt>
+              <dd>400 BC:First mention of social anxiety, which in his time wasn’t labeled, but rather stated as, “ shyness”. Hippocrates claims that those who fall into this category are people who “love darkness as life” and "thinks every man observes him." </dd>
+              <dt>Repetitive Stress Injury</dt>
+              <dd>1700: First appeared and acknowledged by an Italian physician, Bernardino Ramazzini, in the 18th Century. He described more than 20 different varieties of this condition after studying factory workers.</dd>
+              <dt>Bioelectricity</dt>
+              <dd>1752: Electric signals are discovered within animals and imitations of muscle movement by Luigi Galvani. </dd>
+              <dt>Rise of Social Anxiety </dt>
+              <dd>2020: The health risks that come as COVID-19 emerges, sky rocket’s reports of social anxiety. Many are faced with the challenge of needing supplies, but scared of risks and social isolation. </dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
